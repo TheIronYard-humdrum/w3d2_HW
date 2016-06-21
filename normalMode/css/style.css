@@ -1,0 +1,26 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300; }
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+  border: solid 1px #00c6d6; }
+
+.animated {
+  transition: all 0.2s ease; }
+
+h2 {
+  margin: 0;
+  background-color: #00c6d6;
+  color: white; }
+  h2:hover {
+    background-color: #00DAEC; }
+
+p {
+  margin: 0;
+  color: #bbb; }
+
+.inactive {
+  height: 0px;
+  font-size: 0px; }
