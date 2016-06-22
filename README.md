@@ -27,7 +27,7 @@
         return urls
       }
       ```
-    * Used `$('.container').css("background-image", "url()")` to **set background image**.
+  * Used `$('.container').css("background-image", "url()")` to **set background image**.
 
 
 * **SASS Tools**
