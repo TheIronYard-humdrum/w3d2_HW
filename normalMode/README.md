@@ -34,7 +34,7 @@
     * Notice `&:hover` stacking to **access hover** element of div.
     * Notice `transition: background-color 0.5s` used in combination with `background-color: rgba(0,0,0, 0.8)` to **darken div background**.
     * **_Code Snippet_**
-        ``` 
+        ``` css
         .left-arrow {
                 float: left;
                 width: 40px;
