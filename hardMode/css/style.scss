@@ -1,0 +1,42 @@
+.container {
+  width: 700px;
+  height: 400px;
+  margin: 200px auto;
+}
+
+.left-arrow {
+  float: left;
+  width: 40px;
+  height: 70px;
+  margin-top: 170px;
+  border-radius: 5px;
+  background-color: rgba(0,0,0, 0.3);
+  &:hover {
+    background-color: rgba(0,0,0, 0.8);
+    transition: background-color 0.5s
+  }
+  img {
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+  }
+}
+
+.right-arrow {
+  float: right;
+  width: 40px;
+  height: 70px;
+  margin-top: 170px;
+  border-radius: 5px;
+  background-color: rgba(0,0,0, 0.3);
+  img {
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+  }
+
+  &:hover {
+    background-color: rgba(0,0,0, 0.8);
+    transition: background-color 0.5s
+  }
+}
