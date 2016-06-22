@@ -17,7 +17,8 @@
 
 * **jQuery Tools**
     * Had to **pull image url** out of object and **add "url()"** around the image link as follows.
-        ``` javascript
+        
+    *    ``` javascript
             var imgUrls = function(imgs) {
             urls = [];
             for (i in imgs) {
