@@ -12,3 +12,11 @@
 * **SASS Tools**
     * `height: 0px;` in **combination** with `transition: all 0.2s ease;` to acheive slow **collapse of div**. (Not sure that's the best way to approach)
     * 
+
+##### [*__Hard__ Mode*](https://jjrajani.github.io/w3d1_HW/hardMode/index.html)
+
+* **jQuery Tools**
+    * asdf
+
+* **SASS Tools**
+    * sadf
