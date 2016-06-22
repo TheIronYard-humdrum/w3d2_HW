@@ -24,8 +24,7 @@
           urls.push("url(" + imgs[i].image_url + ")")
         }
         return urls
-      }
-      ```
+      } ```
   * Used `$('.container').css("background-image", "url()")` to **set background image**.
 
 
